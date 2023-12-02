@@ -1,6 +1,6 @@
 # BDD - Conta Bancária
 
-## Autor: Matheus Monteiro Bueno
+## Autor: ronald domynik dos santos
 
 ## Versão: 0.1
 
