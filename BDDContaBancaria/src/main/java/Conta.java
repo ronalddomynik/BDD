@@ -3,7 +3,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 /*
- * Autor: Matheus Monteiro Bueno
+ * Autor: ronald domynik dos santos
 */
 public class Conta {
 
